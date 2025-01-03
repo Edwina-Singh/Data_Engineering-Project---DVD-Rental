@@ -1,1 +1,3 @@
-# Data_Engineering-Project---DVD-Rental
+# Data_Engineering-Project---DVD-Rental using PostgreSQL and Data Model
+
+# Overview
