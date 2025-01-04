@@ -26,6 +26,7 @@ https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-databa
 
 # DVD Rental E-R Diagram
 
-[Postgresql database diagram.pdf](https://github.com/user-attachments/files/18304690/Postgresql.database.diagram.pdf)
+<img width="350" alt="ER Diagram" src="https://github.com/user-attachments/assets/3239ee32-afeb-463c-acb0-8832cd5e6dae" />
+
 
 
